@@ -1,10 +1,10 @@
-Assessment: Coffee Shop Domain Modeling
-Objective
+## Assessment: Coffee Shop Domain Modeling
+# Objective
 Using object-oriented programming principles, create a Python application from scratch to model a Coffee Shop domain. This assessment will test your ability to design classes, implement methods, establish relationships between objects, and handle data appropriately.
 
  
 
-Scenario:
+# Scenario:
 
 You are tasked with building a domain model for a Coffee Shop. Your model will consist of three main entities: `Customer`, `Coffee`, and `Order`. The relationships are as follows:
 
@@ -14,7 +14,7 @@ You are tasked with building a domain model for a Coffee Shop. Your model will c
 
 The `Customer` and `Coffee` entities have a many-to-many relationship through the `Order` entity.
 
-Instructions
+# Instructions
 1. Setup and Preparation
 
    - Create a new directory for your project named `coffee_shop`.
